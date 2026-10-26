@@ -11,7 +11,7 @@ If you use CHASM, its source code, figures, or model weights, **please cite the 
 
 ## Architecture
 
-![CHASM architecture](assets/Proposed-Model.png)
+![CHASM architecture](assets/Proposed-Model (2).pdf)
 
 CHASM combines a MobileNetV4-Conv-Small feature extractor with Coordinate-Aware Gating, four-direction Hilbert serialization, a shared state-space duality reasoning block, Scan-Aggregation Spatial Fusion, and Feature-Guided Aggregation. The 9-class model uses a 7×7 backbone feature map, 192-dimensional sequence features, four 49-token Hilbert scans, and a shared SSD block.
 
