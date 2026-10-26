@@ -86,8 +86,8 @@ Expected class folders:
 Python 3.10 is recommended.
 
 ```bash
-git clone https://github.com/REPLACE_WITH_OWNER/CHASM.git
-cd CHASM
+git clone https://github.com/Meraj-coding21/CHASM-Linear-Time-Hilbert-State-Space-Model.git
+cd CHASM-Linear-Time-Hilbert-State-Space-Model
 python -m venv .venv
 source .venv/bin/activate          # Windows: .venv\Scripts\activate
 pip install --upgrade pip
