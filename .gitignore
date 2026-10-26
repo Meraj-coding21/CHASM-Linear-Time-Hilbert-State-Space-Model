@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+outputs/
+evaluation_metrics.json
+CHASM_trained.pth
+*.history.json
+.DS_Store

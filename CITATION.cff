@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use CHASM, its code, architecture, or released checkpoint, please cite the associated CHASM paper."
+title: "CHASM: Overcoming Spatial Disruption with Linear-Time Hilbert State-Space Modeling for Gallbladder Ultrasound Classification"
+type: software
+authors:
+  - family-names: Meraj
+    given-names: Mehedi Hasan
+  - family-names: Hasan
+    given-names: Mahmudul
+  - family-names: Tajbid
+    given-names: Mashfiquzzaman
+  - family-names: Esha
+    given-names: Nafisa Tasneem
+  - family-names: Assaduzzaman
+    given-names: Md
+  - family-names: Fahad
+    given-names: Nafiz
+  - family-names: Liew
+    given-names: Tze Hui
+version: 1.0.0
+date-released: 2026-10-27
+repository-code: "https://github.com/REPLACE_WITH_OWNER/CHASM"
